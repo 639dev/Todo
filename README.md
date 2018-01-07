@@ -1,5 +1,4 @@
-* Requirements 
-
+## Requirements 
 
 - It should have a way to display todos
 - It should have a way to add new todos
