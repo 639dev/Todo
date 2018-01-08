@@ -18,3 +18,7 @@
 - displayTodos should tell you if todos is empty.
 - displayTodos should show .completed.
 
+
+### V4
+- toggleAll: if everything is true, make everything false.
+- toggleAll: Otherwise, make every thing true.
